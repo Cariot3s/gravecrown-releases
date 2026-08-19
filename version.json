@@ -2,5 +2,5 @@
   "version_code": 29,
   "version_name": "0.6.3",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.3."
+  "notes": "Continuar se apaga si no hay partida. Nueva partida avisa si va a sustituir el guardado. El atrás del móvil cierra ventanas y no te saca del juego; en la creación de personaje hay Atrás. Ajustes sin zoom: la UI se adapta sola a cada terminal."
 }
