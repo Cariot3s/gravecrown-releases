@@ -1,6 +1,6 @@
 {
-  "version_code": 24,
-  "version_name": "0.5.9",
+  "version_code": 25,
+  "version_name": "0.5.10",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Muñeco y ranuras de equipo más grandes; la mochila va en un scroll corto. El árbol muestra círculos y gemas sin recuadros. Habilidades reescritas (mismos sprites). 2 puntos de habilidad por nivel, 2ª rama a 14 y 3ª a 22."
+  "notes": "Versión 0.5.10."
 }
