@@ -1,6 +1,6 @@
 {
-  "version_code": 22,
-  "version_name": "0.5.7",
+  "version_code": 23,
+  "version_name": "0.5.8",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Pantallas que caben en el móvil, árbol de habilidades en tres columnas, inventario sobre la figura y combate con el héroe al tamaño de los enemigos."
+  "notes": "Versión 0.5.8."
 }
