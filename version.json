@@ -2,5 +2,5 @@
   "version_code": 27,
   "version_name": "0.6.1",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.1."
+  "notes": "El árbol ya es el tenedor de pares: en cada columna, el 1 arriba y debajo 2-3, 4-5 … 14-15. Tres columnas por facción (15×3) más utilidades, sin pedir nivel entre peldaños; cuanto más abajo, más fuerte. Cada nodo tiene icono propio. En combate puedes usar también las pociones de celeridad y fortificar. El inventario llena las 5 columnas y las hojas del menú ya no dejan ver el diálogo detrás."
 }
