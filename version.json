@@ -1,6 +1,6 @@
 {
-  "version_code": 28,
-  "version_name": "0.6.2",
+  "version_code": 29,
+  "version_name": "0.6.3",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Ajustes más simples: se ha quitado el zoom. La interfaz se adapta sola a cada móvil y ya no se puede agrandar ni encoger. En partida, desde el engranaje puedes guardar y volver al menú (en combate hay que terminar primero). Sigue el árbol en tenedor de pares y las pociones extra en combate."
+  "notes": "Versión 0.6.3."
 }
