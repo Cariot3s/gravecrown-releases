@@ -1,6 +1,6 @@
 {
-  "version_code": 30,
-  "version_name": "0.6.4",
+  "version_code": 31,
+  "version_name": "0.6.5",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Salir a explorar desde Alba entra al bosque: el escenario cambia y las peleas ya no usan la plaza. Eventos y combates salen en un recuadro entre el HUD y la caja de abajo, con el entorno detrás. Magia pasa a Habilidades (submenú). Sin log de batalla: golpe, esquiva y crítico se leen sobre el sprite. Enemigos sin fondo negro, inventario más grande, viaje rápido a sitios visitados, tenderete de oro, cascos/botas y sets de grind. Árbol y equipo más potentes. Cuenta por encima de Ajustes. Música y efectos. Splash vertical del estudio. En facción se ven los 5 linajes y los 2 sexos."
+  "notes": "Versión 0.6.5."
 }
