@@ -2,5 +2,5 @@
   "version_code": 39,
   "version_name": "0.6.13",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.13."
+  "notes": "Cada zona tiene sus propios eventos (textos, opciones y fondos). El HUD ya no salta ni deja un recuadro vacío. Los sets se marcan con un filete fino. Rangos por facción y región en Ajustes, y puedes jugar como invitado o entrar con Google/GitHub/Discord. Incluye lo de la 0.6.11 y 0.6.12 (sets exclusivos, botín más raro)."
 }
