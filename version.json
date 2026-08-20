@@ -1,6 +1,6 @@
 {
-  "version_code": 33,
-  "version_name": "0.6.7",
+  "version_code": 34,
+  "version_name": "0.6.8",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "El árbol ya no sube el mismo bono peldaño a peldaño: cada nodo hace algo distinto (daño, sangrado o veneno al golpear, crítico, ejecución, oro…). Los tenedores tienen nombre (Compañía / Sentencia, Corte / Botín…). El bosque sangra, la cripta debilita, la ciénaga envenena y el hielo ralentiza. La primera hora (bosque y cripta) pega menos; el Rey Caído, un poco más. Los sets tienen icono propio y caen más al repetir la zona."
+  "notes": "Versión 0.6.8."
 }
