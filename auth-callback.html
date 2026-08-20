@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gravecrown — volviendo al juego</title>
+  <style>
+    body { font-family: sans-serif; background: #140f0c; color: #e8dcc4; padding: 2rem; text-align: center; }
+    a { color: #d4b45a; }
+    code { word-break: break-all; background: #241c16; padding: 0.4rem; display: block; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <p>Volviendo a Gravecrown…</p>
+  <p>Si el juego no se abre, copia este enlace y pégalo en <strong>Cuenta → Pegar sesión</strong>.</p>
+  <code id="link"></code>
+  <script>
+    var hash = location.hash || location.search || "";
+    var deep = "gravecrown://auth-callback" + hash;
+    document.getElementById("link").textContent = deep;
+    try { location.replace(deep); } catch (e) {}
+  </script>
+</body>
+</html>
