@@ -2,5 +2,5 @@
   "version_code": 45,
   "version_name": "0.6.19",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.19."
+  "notes": "La ficha de habilidad ya no se mezcla con el árbol. Reset árbol y Reset ascendencia ocupan el ancho del overlay. La tienda hace scroll y, en partida, no tapa el HUD ni el dock."
 }
