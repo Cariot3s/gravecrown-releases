@@ -1,6 +1,6 @@
 {
-  "version_code": 41,
-  "version_name": "0.6.15",
+  "version_code": 42,
+  "version_name": "0.6.16",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Árbol reescrito: las habilidades pegan de verdad (el aturdir ya no sale a 0, el filo es físico, las pasivas se notan). Los avisos de guardar, reset y tienda van con el marco dorado. Las etiquetas de atributo empiezan en mayúscula (Hallazgo de botín, Esquiva, Nv…)."
+  "notes": "Versión 0.6.16."
 }
