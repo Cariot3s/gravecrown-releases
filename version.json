@@ -1,6 +1,6 @@
 {
-  "version_code": 32,
-  "version_name": "0.6.6",
+  "version_code": 33,
+  "version_name": "0.6.7",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "El arranque ya no debería abrir un instante en horizontal: el APK queda bloqueado en vertical desde el manifiesto. Los golpes de combate suenan a impacto, no a distorsión. En batalla, vida y maná suben del canto inferior y van más estrechas para no salirse a los lados."
+  "notes": "Versión 0.6.7."
 }
