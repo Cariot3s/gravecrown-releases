@@ -2,5 +2,5 @@
   "version_code": 40,
   "version_name": "0.6.14",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.14."
+  "notes": "Rangos en el dock y el menú: ves ascendencia, bajas, NG+ y región, y tu fila sale marcada. El árbol dice ascendencia (el sello real de la historia no cambia). Vida y maná a la izquierda de las barras; el oro ya no se sale. Incluye lo de la 0.6.13 (eventos exclusivos por zona, sets y botín más raro)."
 }
