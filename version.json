@@ -2,5 +2,5 @@
   "version_code": 36,
   "version_name": "0.6.10",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.10."
+  "notes": "Cada zona tiene 10 enemigos propios. Al aparecer tiran vida, daño, esquiva y ailments en un rango: el mismo bicho no sale siempre igual. Avanzar de zona se nota — más stats, más dodge, más estados y más resistencia a los tuyos. El bosque sigue siendo la primera hora; el castillo es el pico."
 }
