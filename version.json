@@ -1,6 +1,6 @@
 {
-  "version_code": 35,
-  "version_name": "0.6.9",
+  "version_code": 36,
+  "version_name": "0.6.10",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Bajo Alba abren las Catacumbas de la Corona (nivel 10 / 20 / 30). Enemigos y eventos son solo de ese sitio: cloaca, limo y el Pretendiente tres veces. El primer clear de cada reja da 2 puntos de ascendencia. Al elegir sello ves el árbol entero; una vez jurado se abre en cinco radios (un punto y un único, caminos de 1 a 3), no en escalera. Gasta 6 de 10. Si caes, sales a pueblo sin puntos; el oro de la entrada no vuelve."
+  "notes": "Versión 0.6.10."
 }
