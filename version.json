@@ -2,5 +2,5 @@
   "version_code": 38,
   "version_name": "0.6.12",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.12."
+  "notes": "Los iconos de set ya no salen con fondo morado. El botín cae menos: no cada enemigo, y de set como mucho una pieza por combate. Sigue valiendo lo de la 0.6.11 (sets exclusivos, stats al azar, caza por zona)."
 }
