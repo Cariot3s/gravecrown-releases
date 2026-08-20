@@ -1,6 +1,6 @@
 {
-  "version_code": 31,
-  "version_name": "0.6.5",
+  "version_code": 32,
+  "version_name": "0.6.6",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "En combate, vida y maná van sobre el retrato y ya no se salen del recuadro. Las barras de volumen en Ajustes son más grandes y muestran el porcentaje. Música y efectos nuevos (golpes, viento, drones), no pings de notificación. El splash de Cariot Studios se centra en vertical: Android 12 siempre enseña un instante el icono al abrir, pero ya no debería aplastarse en horizontal."
+  "notes": "Versión 0.6.6."
 }
