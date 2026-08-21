@@ -2,5 +2,5 @@
   "version_code": 64,
   "version_name": "0.6.40",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.40."
+  "notes": "Nodos del árbol y ascendencias reforzados uno a uno: invertir puntos se nota más, sin trivializar el combate."
 }
