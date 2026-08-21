@@ -1,6 +1,6 @@
 {
-  "version_code": 50,
-  "version_name": "0.6.24",
+  "version_code": 51,
+  "version_name": "0.6.25",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "La caja de diálogo enseña como máximo 4 opciones; el resto se desplaza con el dedo. Así tapa menos el fondo y no deja un hueco vacío debajo."
+  "notes": "Versión 0.6.25."
 }
