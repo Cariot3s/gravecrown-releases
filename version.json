@@ -1,6 +1,6 @@
 {
-  "version_code": 62,
-  "version_name": "0.6.37",
+  "version_code": 63,
+  "version_name": "0.6.38",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Ficha de nodo del árbol cabe en pantalla (no se corta a la derecha)."
+  "notes": "Versión 0.6.38."
 }
