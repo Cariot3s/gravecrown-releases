@@ -1,6 +1,6 @@
 {
-  "version_code": 47,
-  "version_name": "0.6.21",
+  "version_code": 48,
+  "version_name": "0.6.22",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Ceniza del Cráter pasa a arco + carcaj, con sprites volcánicos a juego. Un arco ya no admite escudo."
+  "notes": "Versión 0.6.22."
 }
