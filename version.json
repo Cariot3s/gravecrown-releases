@@ -2,5 +2,5 @@
   "version_code": 54,
   "version_name": "0.6.28",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.28."
+  "notes": "Oro del HUD (monedas + etiqueta Oro + cantidad) cabe entero en pantalla. La caja de opciones se ajusta al relato y a 3 o 4 botones; desaparece la franja negra vacía y se ve más la plaza. Siguen las 5 partidas, nombres únicos y el botón Aleatorio."
 }
