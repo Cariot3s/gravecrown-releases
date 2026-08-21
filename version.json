@@ -1,6 +1,6 @@
 {
-  "version_code": 60,
-  "version_name": "0.6.35",
+  "version_code": 61,
+  "version_name": "0.6.36",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Limpieza de textos informativos en Ajustes (sin avisos de desarrollo bajo Idioma/Corona). Discord login OK. Controles intactos: idioma, audio, dado, cuenta, tienda y privacidad."
+  "notes": "Versión 0.6.36."
 }
