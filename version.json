@@ -1,6 +1,6 @@
 {
-  "version_code": 58,
-  "version_name": "0.6.33",
+  "version_code": 59,
+  "version_name": "0.6.34",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Cuenta: botón ✕ para cerrar. Google/GitHub/Discord vuelven al juego (deep link gravecrown://auth-callback + PKCE). Política de privacidad en ventana del juego (sin abrir GitHub). En Supabase añade gravecrown://auth-callback a Redirect URLs; en Discord solo la callback de Supabase (/auth/v1/callback)."
+  "notes": "Versión 0.6.34."
 }
