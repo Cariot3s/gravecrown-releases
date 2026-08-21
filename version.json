@@ -1,6 +1,6 @@
 {
-  "version_code": 57,
-  "version_name": "0.6.31",
+  "version_code": 58,
+  "version_name": "0.6.33",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Ajustes → Idioma: Español e English. Otros idiomas (Français, Deutsch, Русский) más adelante. Incluye el HUD de la 0.6.28: oro visible entero (monedas + Oro + cantidad) y caja de opciones ajustada al relato con 3 o 4 botones. Siguen las 5 partidas, nombres únicos y Aleatorio."
+  "notes": "Versión 0.6.33."
 }
