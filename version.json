@@ -1,6 +1,6 @@
 {
-  "version_code": 46,
-  "version_name": "0.6.20",
+  "version_code": 47,
+  "version_name": "0.6.21",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Tras el Rey Caído pregunta si quieres dificultad aumentada (NG+); si dices que no, sigues en este mundo. En el salvaje el sendero se parte a veces: izquierda, derecha o de frente. Un arco o ballesta solo admite carcaj, nunca un escudo. Sprites propios por set y más historia por zona."
+  "notes": "Versión 0.6.21."
 }
