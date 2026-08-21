@@ -2,5 +2,5 @@
   "version_code": 53,
   "version_name": "0.6.27",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.27."
+  "notes": "Nombres de personaje únicos para siempre (local + nube). Pegar SQL docs/supabase_unique_names.sql en Supabase SQL Editor. Botón Aleatorio en la pantalla de nombre; si está ocupado, tira otro."
 }
