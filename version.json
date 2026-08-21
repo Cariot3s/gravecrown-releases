@@ -1,6 +1,6 @@
 {
-  "version_code": 51,
-  "version_name": "0.6.25",
+  "version_code": 52,
+  "version_name": "0.6.26",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "El oro de la barra de arriba enseña un montón de monedas, la etiqueta Oro y la cantidad. El icono es pequeño y no tapa la vida ni el maná."
+  "notes": "Hasta 5 partidas por cuenta. Continuar enseña facción, nombre, nivel, NG+, zona y oro. El save viejo pasa al hueco 1. Nueva partida usa un hueco libre. No hace falta pegar SQL en Supabase: la tabla ya tenía slot."
 }
