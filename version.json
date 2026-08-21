@@ -1,6 +1,6 @@
 {
-  "version_code": 59,
-  "version_name": "0.6.34",
+  "version_code": 60,
+  "version_name": "0.6.35",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Ajustes → Idioma: el desplegable usa la estética del juego (marrón/oro, sin popup nativo). English aplica de verdad a menús, diálogos, objetos y combate. Incluye lo de la 0.6.33: ✕ en Cuenta, deep link OAuth gravecrown://auth-callback y privacidad in-game."
+  "notes": "Versión 0.6.35."
 }
