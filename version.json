@@ -2,5 +2,5 @@
   "version_code": 65,
   "version_name": "0.6.41",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Sprites de set únicos; estilo coherente por set. Cada pieza (Rima, Zarza, Hueso, Ceniza, Voto, Edicto, Trono) tiene arte propio sin reutilizar únicos ni comunes. Ceniza sigue en arco+carcaj."
+  "notes": "Todo junto: nodos del árbol y ascendencias reforzados; sprites de set únicos (Rima, Zarza, Hueso, Ceniza, Voto, Edicto, Trono); HUD, i18n ES/EN, slots de partida, Discord OAuth, ranking sin duplicados, ficha de nodo y ajustes limpios."
 }
