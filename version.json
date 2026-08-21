@@ -1,6 +1,6 @@
 {
-  "version_code": 52,
-  "version_name": "0.6.26",
+  "version_code": 53,
+  "version_name": "0.6.27",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Hasta 5 partidas por cuenta. Continuar enseña facción, nombre, nivel, NG+, zona y oro. El save viejo pasa al hueco 1. Nueva partida usa un hueco libre. No hace falta pegar SQL en Supabase: la tabla ya tenía slot."
+  "notes": "Versión 0.6.27."
 }
