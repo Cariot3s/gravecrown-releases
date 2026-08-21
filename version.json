@@ -2,5 +2,5 @@
   "version_code": 65,
   "version_name": "0.6.41",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.41."
+  "notes": "Sprites de set únicos; estilo coherente por set. Cada pieza (Rima, Zarza, Hueso, Ceniza, Voto, Edicto, Trono) tiene arte propio sin reutilizar únicos ni comunes. Ceniza sigue en arco+carcaj."
 }
