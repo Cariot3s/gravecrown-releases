@@ -1,6 +1,6 @@
 {
-  "latest": "0.6.30",
-  "version_code": 56,
-  "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/download/v0.6.30/gravecrown-0.6.30.apk",
-  "notes": "Idiomas en Ajustes (Español, English, Français, Deutsch y Русский): menús, combate, diálogos, objetos y habilidades de toda la partida."
+  "version_code": 57,
+  "version_name": "0.6.31",
+  "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
+  "notes": "Versión 0.6.31."
 }
