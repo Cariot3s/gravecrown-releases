@@ -2,5 +2,5 @@
   "version_code": 66,
   "version_name": "0.6.42",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Versión 0.6.42."
+  "notes": "Ficha de ascendencia contenida dentro del modal (preview recortado, márgenes 16px) y botón Cerrar bien colocado al pie de la ficha."
 }
