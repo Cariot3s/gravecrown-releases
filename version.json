@@ -1,6 +1,6 @@
 {
-  "version_code": 65,
-  "version_name": "0.6.41",
+  "version_code": 66,
+  "version_name": "0.6.42",
   "apk_url": "https://github.com/Cariot3s/gravecrown-releases/releases/latest/download/gravecrown-release.apk",
-  "notes": "Todo junto: nodos del árbol y ascendencias reforzados; sprites de set únicos (Rima, Zarza, Hueso, Ceniza, Voto, Edicto, Trono); HUD, i18n ES/EN, slots de partida, Discord OAuth, ranking sin duplicados, ficha de nodo y ajustes limpios."
+  "notes": "Versión 0.6.42."
 }
